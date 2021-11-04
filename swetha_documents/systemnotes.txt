@@ -1,0 +1,11 @@
+1.  20210905
+ a. pip install mysql-connector-python ( for connecting mysql database )
+2. 20210913
+    pip install flask-mail (for sending email in pythonanywhere)
+3. 20211013
+    sudo pip install nmap (for checking available ports- network chuck)
+4. 20211013
+    (sherlock tool websearch- github code copy and pasted code{for searching the social media accounts})
+5.20211014
+    (pip install hashcat - for cracking router pswd)
+
